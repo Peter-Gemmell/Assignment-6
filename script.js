@@ -17,7 +17,7 @@ function pizzaCost () {
   // variables for the code below...
 
   if (size === large && toppings === one) {
-    alert('Your pie will be $7.91.')
+    alert('Your pie will be $7.91')
   } else if (size === large && toppings === two) {
     alert('Your pie will be $8.76')
   } else if (size === large && toppings === three) {
