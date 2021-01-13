@@ -1,0 +1,39 @@
+.back {
+  background-color: khaki;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.head {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 300%;
+  text-align: center;
+}
+
+.main {
+  margin: 75px;
+  border-style: double;
+  border-width: 5px;
+  border-color: black;
+  background-color: white;
+  overflow: auto;
+}
+
+.lego {
+  margin: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.phot {
+  display: block;
+  float: center;
+  border-style: groove;
+  border-width: 2px;
+  border-color: #383838;
+  margin: 600px;
+  width: 500px;
+}
+
+.middle {
+ text-align: center;
+}
